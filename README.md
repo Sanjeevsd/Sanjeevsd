@@ -1,7 +1,7 @@
 ### Hi there, I'm Sanjeev Das - aka [Baka\`][website] 👋
 
 ## I'm a Student, Software Developer, Cuber, and a AI enthusiast!
-- 🔭 I’m currently working on a project [Project-Stack][pstack]!
+- 🔭 I’m currently working on a project Wishposh [wishposh.com]!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2020 Goals: Learn and Contribute more to Open Source projects
 - ⚡ Fun fact: I love to solve Rubick cubes and play video games.
