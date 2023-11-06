@@ -1,9 +1,9 @@
 ### Hi there, I'm Sanjeev Das - aka [Baka\`][website] 👋
 
-## I'm a Student, Software Developer, Cuber, and a AI enthusiast!
-- 🔭 I’m currently working on a project [Wishposh.com] [wishposh]!
+## I'm a FullStack Software Developer, Cuber, and a AI enthusiast!
+- 🔭 I’m currently working with aajproperty.com.
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Learn and Contribute more to Open Source projects
+- 🥅 2023 Goals: Learn and Contribute more to Open Source projects as well personal Projects.
 - ⚡ Fun fact: I love to solve Rubick cubes and play video games.
 
 ### Connect with me:
